@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e93d7cf6-fd4e-4bcc-a36e-333ffef99efb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorldGen/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorldGen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorldGen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/Main.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WorldGenScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGenScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/10/1088f14b6ebf48aaadbadb013337048f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/10/1088f14b6ebf48aaadbadb013337048f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/34/3450129d30c946c2bb672d5942f63a54" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/34/3450129d30c946c2bb672d5942f63a54" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/3d/3d7f7e27642d444a893904c452dd5566" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3d/3d7f7e27642d444a893904c452dd5566" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/78/78dc743534364bf6aae37f9e7f26b8c8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/78/78dc743534364bf6aae37f9e7f26b8c8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/93/930ec542dbbcc6e4aae1733b90a7eb0d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/93/930ec542dbbcc6e4aae1733b90a7eb0d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-    </list>
+    <list default="true" id="e93d7cf6-fd4e-4bcc-a36e-333ffef99efb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +183,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -305,12 +285,12 @@
       <workItem from="1535281721080" duration="3932000" />
       <workItem from="1535291393576" duration="8205000" />
       <workItem from="1535308317864" duration="1456000" />
-      <workItem from="1535310416884" duration="2057000" />
+      <workItem from="1535310416884" duration="2658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30964000" />
+    <option name="totallyTimeSpent" value="31565000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,7 +302,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
