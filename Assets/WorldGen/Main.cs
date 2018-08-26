@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using WorldGen.GUI;
+using WorldGen.PlanetGenerator;
 
 namespace WorldGen
 {
@@ -12,23 +13,16 @@ namespace WorldGen
         //настройки
         public Material grndMaterial;
         public Material oceanMaterial;
-        public int size = 4;
-        public int seed = 0;
-        public float r = 0.1F;
-        public float xMin = 1;
-        public float xMax = 5;
-        public float xOcean = 3;
         
         private void Start ()
         {
             PlanetPropt propt = new PlanetPropt();
-            propt.R = r/(xMax-xMin);
-            propt.Seed = seed;
-            propt.Size = size;
-            propt.xMax = xMax;
-            propt.xMin = xMin;
-            propt.xOcean = xOcean;
-            
+            propt.R = PlanetData.R_DEF_CONST;
+            propt.Seed = PlanetData.SEED_DEF_CONST;
+            propt.Size = PlanetData.SIZE_DEF_CONST;
+            propt.HMax = PlanetData.HMAX_DEF_CONST;
+            propt.HMin = PlanetData.HMIN_DEF_CONST;
+            propt.HOcean = PlanetData.HOCEAN_DEF_CONST;
             
             
             PlanetController.Instance.Parent = this;

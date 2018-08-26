@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e93d7cf6-fd4e-4bcc-a36e-333ffef99efb" name="Default" comment="" />
+    <list default="true" id="e93d7cf6-fd4e-4bcc-a36e-333ffef99efb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorldGen/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorldGen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorldGen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WorldGenScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WorldGenScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/10/1088f14b6ebf48aaadbadb013337048f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/10/1088f14b6ebf48aaadbadb013337048f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/34/3450129d30c946c2bb672d5942f63a54" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/34/3450129d30c946c2bb672d5942f63a54" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3d/3d7f7e27642d444a893904c452dd5566" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3d/3d7f7e27642d444a893904c452dd5566" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/78/78dc743534364bf6aae37f9e7f26b8c8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/78/78dc743534364bf6aae37f9e7f26b8c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/93/930ec542dbbcc6e4aae1733b90a7eb0d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/93/930ec542dbbcc6e4aae1733b90a7eb0d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,42 +34,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NewPlanetGUI.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NewPlanetGUI.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1392">
-              <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
+            <state relative-caret-position="792">
+              <caret line="80" column="13" selection-start-line="76" selection-start-column="12" selection-end-line="80" selection-end-column="13" />
               <folding>
-                <marker date="1535308957737" expanded="false" signature="6:54" ph="..." />
-                <marker date="1535308957737" expanded="true" signature="78:4620" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="110:4618" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="645:2488" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="2568:2849" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="2911:3192" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="3256:3540" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="3599:3865" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="3927:4239" ph="{...}" />
-                <marker date="1535308957737" expanded="true" signature="4301:4612" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="6:86" ph="..." />
+                <marker date="1535312480176" expanded="true" signature="110:6229" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="142:6227" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="977:3457" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="3537:4028" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="3792:3885" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="4090:4580" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="4345:4438" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="4644:5001" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="5060:5371" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="5433:5777" ph="{...}" />
+                <marker date="1535312480176" expanded="true" signature="5839:6221" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlanetData.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Scrollbar.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12F9B110-D0E5-4DAA-9B30-695885E0F3CE/54/0da7ced1/Scrollbar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlanetData.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            <state relative-caret-position="192">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
               <folding>
-                <marker date="1535309179355" expanded="true" signature="49:1800" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="79:1798" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="188:246" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="281:353" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="384:440" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="574:998" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="1070:1792" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="1449:1510" ph="{...}" />
-                <marker date="1535309179355" expanded="true" signature="1560:1678" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="49:2103" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="79:2101" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="491:549" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="584:656" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="687:743" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="877:1301" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="1373:2095" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="1752:1813" ph="{...}" />
+                <marker date="1535311600347" expanded="true" signature="1863:1981" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/WorldGen/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <folding>
+                <marker date="1535311600291" expanded="true" signature="6:104" ph="..." />
+                <marker date="1535311600291" expanded="true" signature="124:1137" ph="{...}" />
+                <marker date="1535311600291" expanded="true" signature="164:1135" ph="{...}" />
+                <marker date="1535311600291" expanded="true" signature="368:941" ph="{...}" />
+                <marker date="1535311600291" expanded="true" signature="994:1039" ph="{...}" />
+                <marker date="1535311600291" expanded="true" signature="1083:1129" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -58,8 +106,8 @@
       <file leaf-file-name="PlanetController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            <state relative-caret-position="248">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
               <folding>
                 <marker date="1535309179138" expanded="false" signature="6:50" ph="..." />
                 <marker date="1535309179138" expanded="true" signature="70:1248" ph="{...}" />
@@ -86,12 +134,25 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>GUIManager.NewPlanetGui.</find>
+      <find>HConst</find>
+      <find>RMaxConst</find>
+      <find>SEEDMAX_CONST</find>
+      <find>private</find>
     </findStrings>
+    <replaceStrings>
+      <replace>HMaxConst</replace>
+      <replace>RMAX_CONST</replace>
+      <replace>SEED_MAX_CONST</replace>
+      <replace>public</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/WorldGen/Utils/CSConverter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/WorldGen/Main.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WorldGen/Main.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WorldGen/Utils/JSONParser.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" root0="FORCE_HIGHLIGHTING" />
@@ -114,16 +175,16 @@
         <option value="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGenerationMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/CSConverter.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/MonoBehaviour1.cs" />
-        <option value="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/Utils/CSConverter.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/Utils/SavingData.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/Utils/JSONParser.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/GUI/GUIManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/WorldGen/Main.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetController.cs" />
         <option value="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs" />
+        <option value="$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs" />
+        <option value="$PROJECT_DIR$/Assets/WorldGen/Main.cs" />
+        <option value="$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs" />
       </list>
     </option>
   </component>
@@ -148,11 +209,13 @@
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -178,20 +241,12 @@
               <item name="WorldGen" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="GUI" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="WorldGen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="WorldGen" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="PlanetGenerator" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -231,9 +286,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="11704">
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="11704" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -250,11 +305,12 @@
       <workItem from="1535281721080" duration="3932000" />
       <workItem from="1535291393576" duration="8205000" />
       <workItem from="1535308317864" duration="1456000" />
+      <workItem from="1535310416884" duration="2057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28907000" />
+    <option name="totallyTimeSpent" value="30964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,16 +330,16 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.2655068" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.26928896" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.25416037" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4003268" />
       <window_info id="Favorites" order="2" sideWeight="0.50121653" side_tool="true" weight="0.25416037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4003268" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,12 +354,38 @@
     <option name="version" value="1" />
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
@@ -313,19 +395,96 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
+          <folding>
+            <marker date="1535312480176" expanded="true" signature="6:86" ph="..." />
+            <marker date="1535312480176" expanded="true" signature="110:6229" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="142:6227" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="977:3457" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="3537:4028" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="3792:3885" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4090:4580" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4345:4438" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4644:5001" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5060:5371" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5433:5777" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5839:6221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+          <folding>
+            <marker date="1535309179138" expanded="false" signature="6:50" ph="..." />
+            <marker date="1535309179138" expanded="true" signature="70:1248" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="106:1246" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="292:349" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="351:484" ph="/* public PlanetPropt Propt ... */" />
+            <marker date="1535309179138" expanded="true" signature="515:603" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="542:593" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="646:740" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="673:730" ph="{...}" />
+            <marker date="1535309179138" expanded="true" signature="985:1240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <marker date="1535311600347" expanded="true" signature="49:2103" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="79:2101" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="491:549" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="584:656" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="687:743" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="877:1301" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1373:2095" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1752:1813" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1863:1981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1535311600291" expanded="true" signature="6:104" ph="..." />
+            <marker date="1535311600291" expanded="true" signature="124:1137" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="164:1135" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="368:941" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="994:1039" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="1083:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
           <folding>
-            <marker date="1535308957737" expanded="false" signature="6:54" ph="..." />
-            <marker date="1535308957737" expanded="true" signature="78:4620" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="110:4618" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="645:2488" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="2568:2849" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="2911:3192" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="3256:3540" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="3599:3865" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="3927:4239" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="4301:4612" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="6:86" ph="..." />
+            <marker date="1535312480176" expanded="true" signature="110:6229" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="142:6227" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="977:3457" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="3537:4028" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="3792:3885" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4090:4580" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4345:4438" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4644:5001" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5060:5371" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5433:5777" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5839:6221" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -334,22 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
-          <folding>
-            <marker date="1535299660737" expanded="false" signature="6:88" ph="..." />
-            <marker date="1535299660737" expanded="true" signature="124:3580" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="160:3578" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="292:350" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="385:457" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="490:555" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="699:1826" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="1913:2221" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2264:2664" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2508:2615" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2708:3106" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2952:3057" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3141:3572" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3284:3416" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,22 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <marker date="1535299660737" expanded="false" signature="6:88" ph="..." />
-            <marker date="1535299660737" expanded="true" signature="124:3580" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="160:3578" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="292:350" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="385:457" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="490:555" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="699:1826" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="1913:2221" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2264:2664" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2508:2615" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2708:3106" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2952:3057" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3141:3572" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3284:3416" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -415,22 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
           <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
-          <folding>
-            <marker date="1535299660737" expanded="false" signature="6:88" ph="..." />
-            <marker date="1535299660737" expanded="true" signature="124:3580" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="160:3578" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="292:350" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="385:457" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="490:555" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="699:1826" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="1913:2221" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2264:2664" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2508:2615" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2708:3106" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2952:3057" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3141:3572" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3284:3416" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,28 +569,21 @@
         <state relative-caret-position="880">
           <caret line="55" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
           <folding>
-            <marker date="1535309179355" expanded="true" signature="49:1800" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="79:1798" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="188:246" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="281:353" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="384:440" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="574:998" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="1070:1792" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="1449:1510" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="1560:1678" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="49:2103" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="79:2101" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="491:549" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="584:656" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="687:743" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="877:1301" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1373:2095" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1752:1813" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1863:1981" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/Properties/AssemblyInfo.cs">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/MonoBehaviour1.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/Utils/CSConverter.cs">
@@ -510,76 +614,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12F9B110-D0E5-4DAA-9B30-695885E0F3CE/54/0da7ced1/Scrollbar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="525" column="17" lean-forward="true" selection-start-line="525" selection-start-column="17" selection-end-line="525" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/Main.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1535299603704" expanded="false" signature="6:72" ph="..." />
-            <marker date="1535299603704" expanded="true" signature="92:1188" ph="{...}" />
-            <marker date="1535299603704" expanded="true" signature="132:1186" ph="{...}" />
-            <marker date="1535299603704" expanded="true" signature="520:992" ph="{...}" />
-            <marker date="1535299603704" expanded="true" signature="1045:1090" ph="{...}" />
-            <marker date="1535299603704" expanded="true" signature="1134:1180" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetGameObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
-          <folding>
-            <marker date="1535299660737" expanded="false" signature="6:88" ph="..." />
-            <marker date="1535299660737" expanded="true" signature="124:3580" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="160:3578" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="292:350" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="385:457" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="490:555" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="699:1826" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="1913:2221" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2264:2664" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2508:2615" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2708:3106" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="2952:3057" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3141:3572" ph="{...}" />
-            <marker date="1535299660737" expanded="true" signature="3284:3416" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetPropt.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
+        <state relative-caret-position="288">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
-            <marker date="1535308957737" expanded="false" signature="6:54" ph="..." />
-            <marker date="1535308957737" expanded="true" signature="78:4620" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="110:4618" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="645:2488" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="2568:2849" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="2911:3192" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="3256:3540" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="3599:3865" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="3927:4239" ph="{...}" />
-            <marker date="1535308957737" expanded="true" signature="4301:4612" ph="{...}" />
+            <marker date="1535311489435" expanded="true" signature="18:659" ph="{...}" />
+            <marker date="1535311489435" expanded="true" signature="50:657" ph="{...}" />
+            <marker date="1535311489435" expanded="true" signature="65:123" ph="/// Сид карты ... " />
+            <marker date="1535311489435" expanded="true" signature="157:230" ph="/// Минимальная высота земли ... " />
+            <marker date="1535311489435" expanded="true" signature="266:340" ph="/// Максимальная высота земли ... " />
+            <marker date="1535311489435" expanded="true" signature="376:439" ph="/// Уровень океана ... " />
+            <marker date="1535311489435" expanded="true" signature="477:538" ph="/// Размер Карты ... " />
+            <marker date="1535311489435" expanded="true" signature="572:627" ph="/// Рельеф ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <marker date="1535311600291" expanded="true" signature="6:104" ph="..." />
+            <marker date="1535311600291" expanded="true" signature="124:1137" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="164:1135" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="368:941" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="994:1039" ph="{...}" />
+            <marker date="1535311600291" expanded="true" signature="1083:1129" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        <state relative-caret-position="248">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
             <marker date="1535309179138" expanded="false" signature="6:50" ph="..." />
             <marker date="1535309179138" expanded="true" signature="70:1248" ph="{...}" />
@@ -597,18 +677,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WorldGen/PlanetGenerator/PlanetData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        <state relative-caret-position="192">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding>
-            <marker date="1535309179355" expanded="true" signature="49:1800" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="79:1798" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="188:246" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="281:353" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="384:440" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="574:998" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="1070:1792" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="1449:1510" ph="{...}" />
-            <marker date="1535309179355" expanded="true" signature="1560:1678" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="49:2103" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="79:2101" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="491:549" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="584:656" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="687:743" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="877:1301" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1373:2095" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1752:1813" ph="{...}" />
+            <marker date="1535311600347" expanded="true" signature="1863:1981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12F9B110-D0E5-4DAA-9B30-695885E0F3CE/54/0da7ced1/Scrollbar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WorldGen/GUI/NewPlanetGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="80" column="13" selection-start-line="76" selection-start-column="12" selection-end-line="80" selection-end-column="13" />
+          <folding>
+            <marker date="1535312480176" expanded="true" signature="6:86" ph="..." />
+            <marker date="1535312480176" expanded="true" signature="110:6229" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="142:6227" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="977:3457" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="3537:4028" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="3792:3885" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4090:4580" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4345:4438" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="4644:5001" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5060:5371" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5433:5777" ph="{...}" />
+            <marker date="1535312480176" expanded="true" signature="5839:6221" ph="{...}" />
           </folding>
         </state>
       </provider>

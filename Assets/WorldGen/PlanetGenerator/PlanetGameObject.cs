@@ -89,7 +89,7 @@ namespace WorldGen.PlanetGenerator
             float koef = Convert.ToSingle(Math.PI*2/n);
             for (int i = 0; i < n; i++)
             {
-                vertices.Add(CSConverter.ToCartesian(Propt.xOcean, i*koef));
+                vertices.Add(CSConverter.ToCartesian(Propt.HOcean, i*koef));
             }
             return vertices.ToArray();
         }

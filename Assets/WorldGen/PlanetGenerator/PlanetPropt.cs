@@ -9,15 +9,15 @@
         /// <summary>
         /// Минимальная высота земли
         /// </summary>
-        public float xMin;
+        public float HMin;
         /// <summary>
         /// Максимальная высота земли
         /// </summary>
-        public float xMax;
+        public float HMax;
         /// <summary>
         /// Уровень океана
         /// </summary>
-        public float xOcean;
+        public float HOcean;
         /// <summary>
         /// Размер Карты
         /// </summary>
